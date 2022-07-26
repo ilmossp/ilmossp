@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Hs](https://github.com/ilmossp/Hs)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **laravel and linux.**
 
