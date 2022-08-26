@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ilyass Elmoudene</h1>
 <h3 align="center">A moroccan data science and Iot student and aspiring web engineer.</h3>
 
-- 🔭 I’m currently working on [Hs](https://github.com/ilmossp/Hs)
+- 🔭 I’m currently working on [Kaminari](https://github.com/ilmossp/kaminari)
 
 - 🌱 I’m currently learning **React**
 
