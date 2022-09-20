@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **medilyasselmoudene@gmail.com**
 
-- ⚡ Fun fact ** I use arch btw **
+- ⚡ Fun fact **I use Arch btw.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
