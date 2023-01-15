@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Kaminari](https://github.com/ilmossp/kaminari)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NestJS**
 
 - 💬 Ask me about **laravel and linux.**
 
