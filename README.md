@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilyass</h1>
 <h3 align="center">A passionate web developer from Morocco</h3>
 
-- 🔭 I’m currently working on [Try Crack Me](https://github.com/ilmossp/try_crack_me)
+- 🔭 I’m currently working on myself.
 
 - 📫 How to reach me **medilyasselmoudene@gmail.com**
 
